@@ -7,5 +7,3 @@ Layout Register form android with android studio
 + open android source code folder
 + run emulator
 + test drive form
-
-[https://www.hockeycomputindo.com](https://www.hockeycomputindo.com)
